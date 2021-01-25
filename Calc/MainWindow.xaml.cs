@@ -53,7 +53,7 @@ namespace Calc
             TextBox1.Text = "0";
             
         }
-
+        // Функция вычисления
         private void BtnEqauls_Click(object sender, RoutedEventArgs e)
         {
             double rezult = 0;
