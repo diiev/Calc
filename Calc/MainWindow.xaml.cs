@@ -50,7 +50,7 @@ namespace Calc
         {
             Button button = (Button)sender;
             op = button.Content.ToString();
-            TextBox1.Text = "";
+            TextBox1.Text = "0";
             
         }
         // Функция вычисления
